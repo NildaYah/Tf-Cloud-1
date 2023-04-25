@@ -4,7 +4,7 @@ terraform {
     hostname = "app.terraform.io" # Optional; defaults to app.terraform.io
 
     workspaces {
-      name = "Common-practice-1"
+      name = "cli-practice-1"
     }
   }
 }
